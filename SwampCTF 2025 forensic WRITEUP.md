@@ -22,7 +22,7 @@ I accidently lost some of my class notes! Can you help me recover it? (Note: Unz
 >unzip và thấy đây là file `.VHD`, up file lên autopsy và mò ra flag
 
 
-![image]![image](https://hackmd.io/_uploads/H1PcyVYakx.png)
+![image](https://hackmd.io/_uploads/H1PcyVYakx.png)
 
 Flag: `swampCTF{n0thing_i5_3v3r_d3l3t3d}`
 
